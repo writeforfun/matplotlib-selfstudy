@@ -8,6 +8,10 @@
 2. 如果要畫兩張以上的圖，就可以用 **ax**
 
 定義ax的兩種方法 (fig用不到，但就是會回傳所以必須定義)
+看上面的概念圖可以得知:
+- fig = Figure
+- ax = Axes ( --ax = Axis--)
+
 1. 
 ```python
 fig, ax = plt.subplots() #ax = plt
