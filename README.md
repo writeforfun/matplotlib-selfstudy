@@ -2,8 +2,13 @@
 ## The original tutorial can be found [here](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 ### 兩大觀念
-1. **plt** 是直接呼叫不用定義的，如果只要畫一張圖，用plt就夠了。
-2. 如果要畫兩張以上的圖，就可以用 **ax**
+1. **plt** 
+  - import後就可以直接用，如果只要畫一張圖，用plt就夠了
+  - 只是一個畫圖的函式，看不出實際上的意義
+2. **ax**
+  - 如果要畫兩張以上的圖用ax
+  - 功能比plt多
+  - ax有實際上的意義(圖上的物件)
 
 ![概念圖](https://github.com/writeforfun/matplotlib-selfstudy/blob/master/concept.png)
 
