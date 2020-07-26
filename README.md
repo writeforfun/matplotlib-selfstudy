@@ -8,7 +8,7 @@
 2. **ax**
   - 如果要畫兩張以上的圖用ax
   - 功能比plt多
-  - ax有實際上的意義(圖上的物件)
+  - ax有實際上的意義 (圖上的物件)
 
 ![概念圖](https://github.com/writeforfun/matplotlib-selfstudy/blob/master/concept.png)
 
