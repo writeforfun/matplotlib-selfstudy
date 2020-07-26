@@ -1,7 +1,7 @@
 # matplotlib-selfstudy
 ## The original tutorial can be found [here](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
-### 兩大觀念
+### 兩大重點
 1. **plt** 
   - import後就可以直接用，如果只要畫一張圖，用plt就夠了
   - 只是一個畫圖的函式，看不出實際上的意義
