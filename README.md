@@ -10,7 +10,7 @@
 定義ax的兩種方法 (fig用不到，但就是會回傳所以必須定義)
 看上面的概念圖可以得知:
 - fig = Figure
-- ax = Axes ( --ax = Axis--)
+- ax = Axes ( -ax = Axis-)
 
 1. 
 ```python
