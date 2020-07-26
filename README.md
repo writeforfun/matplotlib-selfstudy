@@ -1,2 +1,2 @@
 # matplotlib-selfstudy
-### [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB)
+### The original tutorial can be found [here](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB)
